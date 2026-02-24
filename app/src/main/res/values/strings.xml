@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Daily Expense App</string>
+    <string-array name="expense_categories">
+        <item>Office Supplies</item>
+        <item>Travel / Taxi</item>
+        <item>Client Meeting</item>
+        <item>Printing / Xerox</item>
+        <item>Internet / Phone Bill</item>
+    </string-array>
+</resources>
