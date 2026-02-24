@@ -29,5 +29,3 @@ REGISTER NUMBER: 732923ITR028
 ##Screenshot
 [screenshot](Screenshot(40).png)
 
-## Screenshots
-(Add your app screenshot here)
